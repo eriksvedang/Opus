@@ -1,0 +1,3 @@
+*.o
+*.hi
+.hdevtools.sock
